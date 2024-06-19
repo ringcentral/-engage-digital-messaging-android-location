@@ -1,5 +1,9 @@
 # Engage Digital Messaging Maps SDK master #
 
+## Engage Digital Messaging Maps SDK for Android 1.0.2 (June 19th, 2024) ##
+- Fix: previously sent locations are not fully displayed if connection was lost. RD-23649
+- Fix: Restore the zoom level when turning the phone into landscape mode. RD-24277
+
 ## Engage Digital Messaging Maps SDK for Android 1.0.1 (November 18th, 2022) ##
 - Fix: Prevent a crash when rotating the screen on the maps view while location is disabled on the phone. RD-23652
 - Improvement: Automatically zoom in as soon when "current position" button is used. RD-23633
